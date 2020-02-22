@@ -1,0 +1,28 @@
+.rowDay{
+    background-color: orange;
+    color: white;
+    border: 1px white solid;
+}
+table{
+    margin: auto;
+    text-align: center;
+    width: 980px;
+    height: 500px;
+    table-layout: fixed;
+}
+td,tr{
+    border: solid #b9d0da;
+    padding: 10px;
+    border: ;
+    border-collapse: collapse;
+}
+
+.Sunday{
+color: red;
+}
+.SatDay{
+    color: blue;
+}
+sub{
+    font-size:20px;
+}
